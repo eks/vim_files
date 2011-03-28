@@ -1,0 +1,7 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =5
+let g:netrw_dirhist_1='/etc/apt/sources.list.d'
+let g:netrw_dirhist_2='/home/eks/sandbox/nutri_gears/db/migrate'
+let g:netrw_dirhist_3='/home/eks/sandbox/nutri_gears/app/views/clinical_histories'
+let g:netrw_dirhist_4='/home/eks/cardio_gear/app/views/reference_patients'
+let g:netrw_dirhist_5='/home/eks/sandbox/cardio_gears/app/views/shared'
